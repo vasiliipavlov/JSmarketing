@@ -1,48 +1,55 @@
-## Welcome to GitHub Pages
+# JSmarketing
 
+[Дизайн и бренд](JSmarketing%208cbdcb48bccc40248728fb37ba365454/%D0%94%D0%B8%D0%B7%D0%B0%D0%B8%CC%86%D0%BD%20%D0%B8%20%D0%B1%D1%80%D0%B5%D0%BD%D0%B4%20114e759c3bf948e2bb58dc9caca83424.md)
 
+[Персонал](JSmarketing%208cbdcb48bccc40248728fb37ba365454/%D0%9F%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B0%D0%BB%20b07c9df352f0434b9ef4b60c9a5ad9f2.md)
 
-[link](https://github.com/vasiliipavlov/JSmarketing/blob/gh-pages/Quick%20Note%2087f9404004484f66a2b65d5d1e7a6352.md)
+[Каналы привлечения клиентов](JSmarketing%208cbdcb48bccc40248728fb37ba365454/%D0%9A%D0%B0%D0%BD%D0%B0%D0%BB%D1%8B%20%D0%BF%D1%80%D0%B8%D0%B2%D0%BB%D0%B5%D1%87%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BA%D0%BB%D0%B8%D0%B5%D0%BD%D1%82%D0%BE%D0%B2%20f0034bfa3279413786ce7c48b3a8fb3c.md)
 
-test
-***test***
+[Проекты](JSmarketing%208cbdcb48bccc40248728fb37ba365454/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B%2037d46b0f8157465381f6e5a648554157.md)
 
-[test](https://jsmarketing.ru)
+[Финансы](JSmarketing%208cbdcb48bccc40248728fb37ba365454/%D0%A4%D0%B8%D0%BD%D0%B0%D0%BD%D1%81%D1%8B%20d2f48253e4ae4cb0bb4800b2dfd941a1.md)
 
+[Документация и отчетность](JSmarketing%208cbdcb48bccc40248728fb37ba365454/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F%20%D0%B8%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%D0%BD%D0%BE%D1%81%D1%82%D1%8C%205195d95014914829832c03fe339338a4.md)
 
+[Обучение сотрудников](JSmarketing%208cbdcb48bccc40248728fb37ba365454/%D0%9E%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5%20%D1%81%D0%BE%D1%82%D1%80%D1%83%D0%B4%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20493769f8c8c04c2e813ff82a97c1b526.md)
 
-You can use the [editor on GitHub](https://github.com/vasiliipavlov/JSmarketing.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+[Ресурсы компании](JSmarketing%208cbdcb48bccc40248728fb37ba365454/%D0%A0%D0%B5%D1%81%D1%83%D1%80%D1%81%D1%8B%20%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8%20bac91294dc2f41579b1e3909b1b41ca5.md)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Позиционирование себя на рынке](JSmarketing%208cbdcb48bccc40248728fb37ba365454/%D0%9F%D0%BE%D0%B7%D0%B8%D1%86%D0%B8%D0%BE%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%81%D0%B5%D0%B1%D1%8F%20%D0%BD%D0%B0%20%D1%80%D1%8B%D0%BD%D0%BA%D0%B5%20f5ab156d62934384b4820be5c6bb09b0.md)
 
-### Markdown
+[Каналы проведения рекламных кампаний](JSmarketing%208cbdcb48bccc40248728fb37ba365454/%D0%9A%D0%B0%D0%BD%D0%B0%D0%BB%D1%8B%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%80%D0%B5%D0%BA%D0%BB%D0%B0%D0%BC%D0%BD%D1%8B%D1%85%20%D0%BA%D0%B0%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8%CC%86%20eb46e79056bb4eecad3bbc7645fc0bf0.md)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Анализ конкурентов](JSmarketing%208cbdcb48bccc40248728fb37ba365454/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%BA%D0%BE%D0%BD%D0%BA%D1%83%D1%80%D0%B5%D0%BD%D1%82%D0%BE%D0%B2%201ac073b99fda4888b910a7790ef2f3af.md)
 
-```markdown
-Syntax highlighted code block
+[Анализ современных тенденций](JSmarketing%208cbdcb48bccc40248728fb37ba365454/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D1%81%D0%BE%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D1%8B%D1%85%20%D1%82%D0%B5%D0%BD%D0%B4%D0%B5%D0%BD%D1%86%D0%B8%D0%B8%CC%86%20a345ed9ef5304df8bc9d695d3d90fb26.md)
 
-# Header 1
-## Header 2
-### Header 3
+[Оценка рисков](JSmarketing%208cbdcb48bccc40248728fb37ba365454/%D0%9E%D1%86%D0%B5%D0%BD%D0%BA%D0%B0%20%D1%80%D0%B8%D1%81%D0%BA%D0%BE%D0%B2%209275ae0201594c5b82eefbcf66e3afc6.md)
 
-- Bulleted
-- List
+[Sales CRM](JSmarketing%208cbdcb48bccc40248728fb37ba365454/Sales%20CRM%209ba4118da35445d4a401425621b5c182.csv)
 
-1. Numbered
-2. List
+[User Research](JSmarketing%208cbdcb48bccc40248728fb37ba365454/User%20Research%200e9c4bb4c14b4857a46de5b840b807db.csv)
 
-**Bold** and _Italic_ and `Code` text
+[Competitive Analysis](JSmarketing%208cbdcb48bccc40248728fb37ba365454/Competitive%20Analysis%207aca5c0e9bd94fccab431361c105afdd.csv)
 
-[Link](url) and ![Image](src)
-```
+[Team Directory](JSmarketing%208cbdcb48bccc40248728fb37ba365454/Team%20Directory%2065dc2eed4b9d43b18fad9675c2280605.csv)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[Product FAQs](JSmarketing%208cbdcb48bccc40248728fb37ba365454/Product%20FAQs%20ca0571278ebf488dbd722366e1acff4a.csv)
 
-### Jekyll Themes
+[Help Center](JSmarketing%208cbdcb48bccc40248728fb37ba365454/Help%20Center%2037a8be7e07df46b7a7bdb5d3e7048a06.md)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vasiliipavlov/JSmarketing.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[Docs](JSmarketing%208cbdcb48bccc40248728fb37ba365454/Docs%208528b0932062463ba328a1be75820f92.csv)
 
-### Support or Contact
+[Design System](JSmarketing%208cbdcb48bccc40248728fb37ba365454/Design%20System%20055b5902cd454785867d1f89070ed563.csv)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[Meeting Notes](JSmarketing%208cbdcb48bccc40248728fb37ba365454/Meeting%20Notes%2046b7bb8a525048e9bad08ab75f474fea.csv)
+
+[Task List](JSmarketing%208cbdcb48bccc40248728fb37ba365454/Task%20List%20126b646bab9e40618c7844e5d16a7491.csv)
+
+[Yearly Goals](JSmarketing%208cbdcb48bccc40248728fb37ba365454/Yearly%20Goals%20e2a184c0b5b04e23b4859456a08a75b5.md)
+
+[Reading List](JSmarketing%208cbdcb48bccc40248728fb37ba365454/Reading%20List%2034eb3ecb8d324e9ebb63ff49e1001bb8.md)
+
+[Journal](JSmarketing%208cbdcb48bccc40248728fb37ba365454/Journal%208226ea0cf8ab458aa5f618ea391c9178.csv)
+
+[Task List](JSmarketing%208cbdcb48bccc40248728fb37ba365454/Task%20List%20835a3dc4f6ed43838c2c50cda378c162.csv)

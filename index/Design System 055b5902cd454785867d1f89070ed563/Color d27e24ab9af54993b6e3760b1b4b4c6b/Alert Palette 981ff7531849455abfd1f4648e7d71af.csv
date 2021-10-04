@@ -1,0 +1,4 @@
+﻿Name,Hex,RGB,SASS Variable
+Warning,#F1C40F,"rgb(241, 196, 15)",$color-warning
+Success,#2ECC71,"rgb(46, 204, 113)",$color-success
+Failure,#E74C3C,"rgb(231, 76, 60)",$color-failure

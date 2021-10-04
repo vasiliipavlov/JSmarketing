@@ -1,0 +1,7 @@
+﻿Name,Hex,RGB,SASS Variable
+Snow,#F4F4F4,"rgb(244, 244, 244)",$color-snow
+Silver,#CCCCCC,"rgb(204, 204, 204)",$color-silver
+Coal,#333333,"rgb(51, 51, 51)",$color-coal
+Black,#000000,"rgb(0,0,0)",$color-black
+Moon,#999999,"rgb(153, 153, 153)",$color-moon
+Nickel,#666666,"rgb(102, 102, 102)",$color-nickel
