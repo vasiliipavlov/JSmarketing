@@ -2,7 +2,7 @@
 
 
 
-[]()
+[link](https://github.com/vasiliipavlov/JSmarketing/blob/gh-pages/Quick%20Note%2087f9404004484f66a2b65d5d1e7a6352.md)
 
 test
 ***test***
